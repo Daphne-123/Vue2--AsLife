@@ -1,5 +1,5 @@
 # Vue2--AsLife
-用vue.js和webpack技术做的移动端软件<br>
+&emsp;用vue.js和webpack技术做的移动端软件<br>
 以vue2语法为技术实现的一个移动端软件，写法不复杂，作为学完vue的练手项目。
 
 ## Project setup
